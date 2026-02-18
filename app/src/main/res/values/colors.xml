@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="PrimaryPurple">#6C63FF</color>
+    <color name="SecondaryPink">#FF6584</color>
+    <color name="BackgroundDark">#121212</color>
+    <color name="CardSurface">#1E1E1E</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>

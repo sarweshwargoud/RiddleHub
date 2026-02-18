@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490141692273",
+    "project_id": "riddlehub",
+    "storage_bucket": "riddlehub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490141692273:android:1adb5a3e25235c9afac6d0",
+        "android_client_info": {
+          "package_name": "com.sarweshwar.riddlehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi3XKvX_of_7XRkMg1dlXuE-hd83dtKi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
